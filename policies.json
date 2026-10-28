@@ -1,0 +1,31 @@
+{
+  "policy_version": "1.0",
+  "routing": {
+    "high_risk_conditions": [
+      "security_impact=High",
+      "handles_data=Yes",
+      "service_category=Data Processing",
+      "tax_status=Missing",
+      "documents_complete=Incomplete"
+    ],
+    "medium_risk_conditions": [
+      "tax_status=Pending",
+      "security_impact=Medium"
+    ],
+    "default_route": "STANDARD_PROCUREMENT_REVIEW"
+  },
+  "governance": {
+    "principles": [
+      "purpose_limitation",
+      "data_minimization",
+      "risk_based_review",
+      "separation_of_duties",
+      "auditability"
+    ],
+    "sensitive_fields_not_collected": [
+      "bank_account_number",
+      "password",
+      "government_id_scan"
+    ]
+  }
+}

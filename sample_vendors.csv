@@ -1,0 +1,11 @@
+vendor_id,company_name,contact_email,service_category,tax_status,security_impact,handles_data,documents_complete,business_purpose
+VEN-1001,Northstar Software,northstar@example.com,Software,Verified,Low,No,Complete,Provide licensed development tools for engineering teams.
+VEN-1002,BluePeak Consulting,bluepeak@example.com,Consulting,Pending,Medium,No,Complete,Support a defined business process improvement project.
+VEN-1003,SecureCloud Data,securecloud@example.com,Data Processing,Verified,High,Yes,Complete,Host and process approved analytics data for business reporting.
+VEN-1004,Metro Office Supply,metro@example.com,Hardware,Verified,Low,No,Complete,Supply standard office peripherals for employees.
+VEN-1005,Incomplete Docs Co,docs@example.com,Facilities,Missing,Medium,No,Incomplete,Provide facilities maintenance services at company offices.
+VEN-1006,Insight Partners,insight@example.com,Consulting,Verified,Medium,Yes,Complete,Perform a limited analysis using approved company datasets.
+VEN-1007,GreenField Services,greenfield@example.com,Facilities,Verified,Low,No,Complete,Provide routine office maintenance under a standard service agreement.
+VEN-1008,Missing Purpose,missing@example.com,Software,Verified,Low,No,Complete,
+VEN-1009,Northstar Software Duplicate,duplicate@example.com,Software,Verified,Low,No,Complete,Provide licensed development tools for engineering teams.
+VEN-1010,HighRisk Hardware,hardware@example.com,Hardware,Verified,High,No,Complete,Provide network equipment for a restricted office environment.
